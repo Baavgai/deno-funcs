@@ -1,0 +1,5 @@
+/hold
+tsconfig.json
+src/lib.deno.d.ts
+.eslintrc.json
+.vscode/
